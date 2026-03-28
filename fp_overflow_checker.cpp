@@ -1,5 +1,7 @@
 // fp_overflow_checker.cpp
 // CS3339 Spring 2026 - Homework 2
+// Author: Basil Idris Mohad
+// Date: March 27, 2026
 //
 // Detects floating-point precision overflow: finds the smallest value at
 // which incrementing by the loop counter has no effect (increment is lost
